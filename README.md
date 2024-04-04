@@ -1,4 +1,4 @@
-# @astrum-ui/modal
+# @astrum-ui/core
 
 A collection of React UI components, providing versatile and customizable solutions for front-end development.
 
@@ -10,6 +10,8 @@ To access the complete suite of components:
 ```
 npm install --save @astrum-ui/core
 ```
+
+or install [components](#alternatively-install-individual-components-separately) seperately
 
 ## Usage
 
@@ -27,7 +29,7 @@ export default function HelloModal() {
 	  <div>Hello world - content</div>
 	 </Modal>
 
-	 <button type="button" onClick={(() => setShow(true))} >
+	 <button type="button" onClick={() => setShow(true)} >
 		Show Modal
 	 </button>
   </>
@@ -36,9 +38,10 @@ export default function HelloModal() {
 
 ```
 
-Alternatively, install individual components separately:
+##### Alternatively, install individual components separately:
 
 - [Modal](https://www.npmjs.com/package/@astrum-ui/modal)
+
 
 
 Explore more components soon to be unveiled!

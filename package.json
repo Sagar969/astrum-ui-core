@@ -1,6 +1,6 @@
 {
   "name": "@astrum-ui/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of React UI components, providing versatile and customizable solutions for front-end development.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
