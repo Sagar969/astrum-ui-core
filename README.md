@@ -6,7 +6,6 @@ A collection of React UI components, providing versatile and customizable soluti
 
 To access the complete suite of components:
 
-
 ```
 npm install --save @astrum-ui/core
 ```
@@ -39,13 +38,12 @@ export default function HelloModal() {
 ```
 
 #### More examples
+
 - Modal
-	- [Sign-in form modal](https://stackblitz.com/edit/vitejs-vite-qdmdsg?file=src%2FApp.tsx)
+  - [Sign-in form modal](https://stackblitz.com/edit/vitejs-vite-qdmdsg?file=src%2Fcomponents%2Fmodal%2FSignInModal.tsx)
 
 ##### Alternatively, install individual components separately:
 
 - [Modal](https://www.npmjs.com/package/@astrum-ui/modal)
-
-
 
 Explore more components soon to be unveiled!
