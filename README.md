@@ -38,6 +38,10 @@ export default function HelloModal() {
 
 ```
 
+#### More examples
+- Modal
+	- [Sign-in form modal](https://stackblitz.com/edit/vitejs-vite-qdmdsg?file=src%2FApp.tsx)
+
 ##### Alternatively, install individual components separately:
 
 - [Modal](https://www.npmjs.com/package/@astrum-ui/modal)
