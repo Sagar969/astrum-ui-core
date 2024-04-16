@@ -41,9 +41,12 @@ export default function HelloModal() {
 
 - Modal
   - [Sign-in form modal](https://stackblitz.com/edit/vitejs-vite-qdmdsg?file=src%2Fcomponents%2Fmodal%2FSignInModal.tsx)
+- Paginate
+  - [Blog cards](https://stackblitz.com/edit/vitejs-vite-qdmdsg?file=src%2Fpages%2FBlogs.tsx)
 
 ##### Alternatively, install individual components separately:
 
 - [Modal](https://www.npmjs.com/package/@astrum-ui/modal)
+- [Paginate](https://www.npmjs.com/package/@astrum-ui/paginate)
 
 Explore more components soon to be unveiled!

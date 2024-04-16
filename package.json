@@ -1,6 +1,6 @@
 {
   "name": "@astrum-ui/core",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "description": "A collection of React UI components, providing versatile and customizable solutions for front-end development.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -29,25 +29,15 @@
   "homepage": "https://github.com/Sagar969/astrum-ui-core#readme",
   "license": "ISC",
   "devDependencies": {
-    "@rollup/plugin-babel": "^6.0.4",
-    "@rollup/plugin-commonjs": "^25.0.7",
-    "@rollup/plugin-json": "^6.1.0",
-    "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-terser": "^0.4.4",
     "@rollup/plugin-typescript": "^11.1.6",
     "@types/react": "^18.2.73",
-    "cssnano": "^6.1.2",
-    "postcss": "^8.4.38",
-    "postcss-cssnext": "^3.1.1",
-    "postcss-nested": "^6.0.1",
-    "postcss-simple-vars": "^7.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "rollup": "^4.13.2",
-    "rollup-plugin-postcss": "^4.0.2",
-    "tslib": "^2.6.2"
+    "rollup": "^4.13.2"
   },
   "dependencies": {
-    "@astrum-ui/modal": "^1.1.0"
+    "@astrum-ui/modal": "^1.1.0",
+    "@astrum-ui/paginate": "^1.0.2"
   }
 }
